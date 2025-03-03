@@ -33,12 +33,12 @@ En `appsettings.json`, ajusta la cadena de conexión:
 
 ### 3️⃣ Aplicar migraciones
 ```sh
-dotnet ef database update
+dotnet ef database update 
 ```
 
 ## ▶️ Ejecutar la aplicación
 ```sh
-dotnet run
+dotnet run --project "Ruta del proyecto Infraestructura" --startup-project "Ruta Proyecto API"
 ```
 
 La API estará disponible en `http://localhost:5000`.
