@@ -1,0 +1,12 @@
+D:\aportes-en-linea-backend\AEL.Domain\bin\Debug\net8.0\AEL.Domain.deps.json
+D:\aportes-en-linea-backend\AEL.Domain\bin\Debug\net8.0\AEL.Domain.dll
+D:\aportes-en-linea-backend\AEL.Domain\bin\Debug\net8.0\AEL.Domain.pdb
+D:\aportes-en-linea-backend\AEL.Domain\obj\Debug\net8.0\AEL.Domain.csproj.AssemblyReference.cache
+D:\aportes-en-linea-backend\AEL.Domain\obj\Debug\net8.0\AEL.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\aportes-en-linea-backend\AEL.Domain\obj\Debug\net8.0\AEL.Domain.AssemblyInfoInputs.cache
+D:\aportes-en-linea-backend\AEL.Domain\obj\Debug\net8.0\AEL.Domain.AssemblyInfo.cs
+D:\aportes-en-linea-backend\AEL.Domain\obj\Debug\net8.0\AEL.Domain.csproj.CoreCompileInputs.cache
+D:\aportes-en-linea-backend\AEL.Domain\obj\Debug\net8.0\AEL.Domain.dll
+D:\aportes-en-linea-backend\AEL.Domain\obj\Debug\net8.0\refint\AEL.Domain.dll
+D:\aportes-en-linea-backend\AEL.Domain\obj\Debug\net8.0\AEL.Domain.pdb
+D:\aportes-en-linea-backend\AEL.Domain\obj\Debug\net8.0\ref\AEL.Domain.dll

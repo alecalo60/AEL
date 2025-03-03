@@ -1,0 +1,17 @@
+D:\aportes-en-linea-backend\AEL.Infrastructure\bin\Debug\net8.0\AEL.Infrastructure.deps.json
+D:\aportes-en-linea-backend\AEL.Infrastructure\bin\Debug\net8.0\AEL.Infrastructure.dll
+D:\aportes-en-linea-backend\AEL.Infrastructure\bin\Debug\net8.0\AEL.Infrastructure.pdb
+D:\aportes-en-linea-backend\AEL.Infrastructure\bin\Debug\net8.0\AEL.Domain.dll
+D:\aportes-en-linea-backend\AEL.Infrastructure\bin\Debug\net8.0\AEL.Domain.pdb
+D:\aportes-en-linea-backend\AEL.Infrastructure\obj\Debug\net8.0\AEL.Infrastructure.csproj.AssemblyReference.cache
+D:\aportes-en-linea-backend\AEL.Infrastructure\obj\Debug\net8.0\AEL.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\aportes-en-linea-backend\AEL.Infrastructure\obj\Debug\net8.0\AEL.Infrastructure.AssemblyInfoInputs.cache
+D:\aportes-en-linea-backend\AEL.Infrastructure\obj\Debug\net8.0\AEL.Infrastructure.AssemblyInfo.cs
+D:\aportes-en-linea-backend\AEL.Infrastructure\obj\Debug\net8.0\AEL.Infrastructure.csproj.CoreCompileInputs.cache
+D:\aportes-en-linea-backend\AEL.Infrastructure\obj\Debug\net8.0\AEL.Infr.667D71BC.Up2Date
+D:\aportes-en-linea-backend\AEL.Infrastructure\obj\Debug\net8.0\AEL.Infrastructure.dll
+D:\aportes-en-linea-backend\AEL.Infrastructure\obj\Debug\net8.0\refint\AEL.Infrastructure.dll
+D:\aportes-en-linea-backend\AEL.Infrastructure\obj\Debug\net8.0\AEL.Infrastructure.pdb
+D:\aportes-en-linea-backend\AEL.Infrastructure\obj\Debug\net8.0\ref\AEL.Infrastructure.dll
+D:\aportes-en-linea-backend\AEL.Infrastructure\bin\Debug\net8.0\AEL.Application.dll
+D:\aportes-en-linea-backend\AEL.Infrastructure\bin\Debug\net8.0\AEL.Application.pdb
