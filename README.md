@@ -8,6 +8,7 @@ Este es el backend de la aplicación **Aportes en Línea**, desarrollado en **.N
 - **xUnit** (para pruebas unitarias)
 - **AutoMapper**
 - **MoQ** (para pruebas unitarias)
+- **Microsoft Identity Server** (para securizar rutas, control de roles y permisos)
 
 ## 📋 Requisitos previos
 Antes de comenzar, asegúrate de tener instalado:
