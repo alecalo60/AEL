@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Hotel.Domain.Entities
+namespace AEL.Domain.Entities
 {
     public abstract class BaseEntity<T>
     {

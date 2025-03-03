@@ -1,6 +1,6 @@
 ﻿
 using System.Linq.Expressions;
-using Hotel.Domain.Entities;
+using AEL.Domain.Entities;
 using Microsoft.EntityFrameworkCore.Query;
 
 namespace AEL.Application.Interfaces.Repositories
@@ -17,6 +17,7 @@ namespace AEL.Application.Interfaces.Repositories
         Task DeleteAsync(int id);
         Task<bool> ExistsAsync(Expression<Func<T, bool>> predicate);
         IQueryable<T> Query();
+        Task<T> GetByIdAsync(int id, bool includeRelatedEntities);
     }
 
 }

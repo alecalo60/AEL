@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore.Query;
 using Microsoft.EntityFrameworkCore;
 using System.Linq.Expressions;
-using Hotel.Domain.Entities;
+using AEL.Domain.Entities;
 using AEL.Application.Interfaces.Repositories;
 
 namespace AEL.Infrastructure.Persistence.Repositories
@@ -81,5 +81,20 @@ namespace AEL.Infrastructure.Persistence.Repositories
                 await _context.SaveChangesAsync();
             }
         }
+        public async Task<T> GetByIdAsync(int id, bool includeRelatedEntities = false)
+        {
+            var query = _context.Set<T>().AsQueryable();
+
+            if (includeRelatedEntities)
+            {
+                foreach (var property in _context.Model.FindEntityType(typeof(T)).GetNavigations())
+                {
+                    query = query.Include(property.Name);
+                }
+            }
+
+            return await query.FirstOrDefaultAsync(e => e.Id == id);
+        }
+
     }
 }
