@@ -34,7 +34,7 @@ En `appsettings.json`, ajusta la cadena de conexión:
 
 ### 3️⃣ Aplicar migraciones
 ```sh
-dotnet ef database update --project "Ruta del proyecto Infraestructura" --startup-project "Ruta Proyecto API"
+dotnet ef database update --project "Ruta del proyecto Infraestructura + Archivo de proyecto" --startup-project "Ruta Proyecto API + Archivo de proyecto"
 ```
 
 ## ▶️ Ejecutar la aplicación
@@ -45,9 +45,10 @@ dotnet run
 La API estará disponible en `http://localhost:5000`.
 
 ## 🛠️ Ejecutar pruebas
-Para ejecutar las pruebas unitarias con **xUnit**, usa el siguiente comando:
+Para ejecutar las pruebas unitarias con **xUnit** y **Moq**, usa el siguiente comando:
 ```sh
-dotnet test
+cd AEL.Tests
+dotnet test .\AEL.Tests.csproj
 ```
 
 ## 📁 Estructura del proyecto
